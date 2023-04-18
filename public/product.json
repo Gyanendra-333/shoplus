@@ -1,0 +1,50 @@
+[
+    {
+        "name": "iphone 14",
+        "price": "99099",
+        "Details": "Created By Apple",
+        "image": "https://img1.gadgetsnow.com/gd/images/products/additional/large/G390766_View_1/mobiles/smartphones/apple-iphone-14-128-gb-blue-6-gb-ram-.jpg"
+    },
+    {
+        "name": "Nikon",
+        "price": "90000",
+        "Details": "Created By Nikon",
+        "image": "https://rukminim1.flixcart.com/image/312/312/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70"
+    },
+    {
+        "name": "acer",
+        "price": "23000",
+        "Details": "Created By acer",
+        "image": "https://rukminim1.flixcart.com/image/312/312/l432ikw0/monitor/o/j/t/qg241y-full-hd-23-8-um-qq1ss-001-acer-original-imagf2cbq6wwrdzg.jpeg?q=70"
+    },
+    {
+        "name": "Lenevo",
+        "price": "9000",
+        "Details": "Created By Lenevo",
+        "image": "https://rukminim1.flixcart.com/image/312/312/ko8xtow0/monitor/t/a/y/d24-20-66aekac1in-lenovo-original-imag2qwzazcdmqtb.jpeg?q=70"
+    },
+    {
+        "name": "Canon",
+        "price": "6000",
+        "Details": "Created By Canon",
+        "image": "https://rukminim1.flixcart.com/image/612/612/k4a7c7k0/printer/y/j/z/canon-e3370-original-imafn2wyyxjjvzd6.jpeg?q=70"
+    },
+    {
+        "name": "HP",
+        "price": "6999",
+        "Details": "Created By HP",
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/printer/r/6/t/-original-imagnuwezn8c5nmg.jpeg?q=70"
+    },
+    {
+        "name": "Realme",
+        "price": "999",
+        "Details": "realme Cobble with Bass Radiator 5 w Bluetooth Speaker ",
+        "image": "https://rukminim1.flixcart.com/image/416/416/ktaeqvk0/speaker/mobile-tablet-speaker/8/q/5/rma2007-realme-original-imag6zdn8gezjky5.jpeg?q=70"
+    },
+    {
+        "name": "Mivi",
+        "price": "899",
+        "Details": "Mivi Play 5 W Portable Bluetooth Speaker",
+        "image": "https://rukminim1.flixcart.com/image/612/612/kplisnk0/speaker/mobile-tablet-speaker/i/o/5/bs5pl-gn-mivi-original-imag3sgm6cx4zxtd.jpeg?q=70"
+    }
+]

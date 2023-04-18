@@ -1,0 +1,16 @@
+.links {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-link {
+    color: black !important;
+    font-size: 18px !important;
+}
+
+.bg-body-blue {
+    background-color: #beeaf1 !important;
+    color: crimson;
+
+}

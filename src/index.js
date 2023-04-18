@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import Home from './home/Home';
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.min.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -11,9 +11,7 @@ root.render(
   <div>
     {/* <React.StrictMode>  */}
 
-    <Header />
     <Home />
-    <Footer />
 
   </div>
 

@@ -1,9 +1,19 @@
 import React from 'react'
+import Header from '../components/Header/Header'
+import Footer from '../components/Footer/Footer'
+import Productcard from '../productcard/Productcard'
 
 export default function Home() {
     return (
 
-        <div>This is   homepage !</div>
+        <div>
+            <Header />
+            <div>
+                <Productcard />
+            </div>
+            <Footer />
+
+        </div>
 
     )
 }
