@@ -4,8 +4,11 @@ img {
     /* padding: 10px; */
 }
 
-.card{
-    width: 25%;
+.card {
     margin: 15px;
     padding: 10px;
+}
+
+.card-body {
+    height: 280px;
 }
