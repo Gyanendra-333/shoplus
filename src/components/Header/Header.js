@@ -20,7 +20,7 @@ export default function Header() {
                         <ul className="navbar-nav  mb-2 mb-lg-0 links">
 
                             <li className="nav-item">
-                                <a className="nav-link" href="g">Registor</a>
+                                <a className="nav-link" href="/registor">Registor</a>
                             </li>
 
                             <li className="nav-item">
