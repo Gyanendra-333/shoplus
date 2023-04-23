@@ -19,7 +19,6 @@ root.render(
         <Route path='/' element={<Home />} />
         <Route path='/registor' element={<Registor />} />
         <Route path='/signin' element={<Login />} />
-
       </Routes>
     </BrowserRouter>
 
