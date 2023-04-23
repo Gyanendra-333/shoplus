@@ -1,0 +1,14 @@
+.container {
+    padding: 350px;
+    padding-top: 20px;
+}
+
+.btn-reg {
+    display: flex;
+    padding: 5px 40px;
+    margin: auto;
+}
+
+.heading {
+    color: rgb(181 192 223);
+}
