@@ -4,6 +4,17 @@ img {
     /* padding: 10px; */
 }
 
+.card-title {
+    padding: 4px;
+    font-size: 16px;
+    border-bottom: 1px solid green;
+}
+
+.card-rate {
+    color: rgb(181 144 3);
+    font-size: 18px;
+}
+
 .card {
     margin: 15px;
     padding: 10px;

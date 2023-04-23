@@ -10,13 +10,13 @@ export default function Home() {
     // let data = "My Data";
 
     useEffect(() => {
-        fetch("Product.json")
+        fetch('https://fakestoreapi.com/products')
             // calling json function
             .then((res) => res.json())
             // Listening for json to return.
             .then((res) => {
                 setProducts(res);
-                console.log(products.length);
+                console.log(products);
             });
 
     }, []);
