@@ -1,7 +1,12 @@
 import React from 'react';
 import "./Registor.css";
+// import { useNavigate } from 'react-router-dom';
+
 
 export default function Registor() {
+    // const navigate = useNavigate();
+    //     navigate("/signin");
+
     return (
         <div className='container'>
 
